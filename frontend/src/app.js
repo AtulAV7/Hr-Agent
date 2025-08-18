@@ -298,10 +298,6 @@ function App() {
           >
             🔄 Start New Workflow
           </button>
-          <div className="footer-info">
-            <p>&copy; 2024 HR AI Agent. All rights reserved.</p>
-            <p>Powered by OpenAI GPT-4 and Google Calendar</p>
-          </div>
         </div>
       </footer>
     </div>
